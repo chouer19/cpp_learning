@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.01)
+project(test)
+add_library(b SHARED b.cpp )
+add_executable(c c.cpp b)
+#target_link_libraries(c b)
