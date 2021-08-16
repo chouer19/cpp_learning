@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../dox/binary.h
+string
+-
+
+../dox/common/log.h
+cstdarg
+-
+string
+-
+glog/logging.h
+../dox/common/glog/logging.h
+glog/raw_logging.h
+../dox/common/glog/raw_logging.h
+dox/binary.h
+../dox/common/dox/binary.h
+
+../dox/scheduler/common/pin_thread.h
+string
+-
+thread
+-
+vector
+-
+dox/common/log.h
+../dox/scheduler/common/dox/common/log.h
+
+/home/yousong/workspace/cpp_learning/senior-detection/dox/scheduler/common/pin_thread.cc
+dox/scheduler/common/pin_thread.h
+/home/yousong/workspace/cpp_learning/senior-detection/dox/scheduler/common/dox/scheduler/common/pin_thread.h
+sched.h
+-
+sys/resource.h
+-
+

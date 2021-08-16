@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../dox/binary.h
+string
+-
+
+/home/yousong/workspace/cpp_learning/senior-detection/dox/binary.cc
+dox/binary.h
+/home/yousong/workspace/cpp_learning/senior-detection/dox/dox/binary.h
+mutex
+-
+string
+-
+

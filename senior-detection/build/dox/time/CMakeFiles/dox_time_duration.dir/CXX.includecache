@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../dox/time/duration.h
+cstdint
+-
+iostream
+-
+
+/home/yousong/workspace/cpp_learning/senior-detection/dox/time/duration.cc
+dox/time/duration.h
+/home/yousong/workspace/cpp_learning/senior-detection/dox/time/dox/time/duration.h
+chrono
+-
+iomanip
+-
+iostream
+-
+thread
+-
+

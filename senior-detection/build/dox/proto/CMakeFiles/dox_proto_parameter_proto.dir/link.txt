@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libdox_proto_parameter_proto.so -o ../../BuildProducts/opt/dox/lib/libdox_proto_parameter_proto.so CMakeFiles/dox_proto_parameter_proto.dir/parameter.pb.cc.o  -Wl,-rpath,/usr/local/lib: /usr/local/lib/libprotobuf.so -lpthread 

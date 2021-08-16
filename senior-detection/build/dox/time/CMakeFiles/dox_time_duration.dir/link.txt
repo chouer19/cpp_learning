@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libdox_time_duration.so -o ../../BuildProducts/opt/dox/lib/libdox_time_duration.so CMakeFiles/dox_time_duration.dir/duration.cc.o 

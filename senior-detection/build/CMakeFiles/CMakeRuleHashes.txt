@@ -1,0 +1,19 @@
+# Hashes of file build rules.
+08c5ac71f304e3f9695b710a250c62d0 dox/proto/choreography_conf.pb.cc
+1dcfc03ae1917b90d5556e03e10cc7f4 dox/proto/classic_conf.pb.cc
+5dad95263e6f99d492fae22acc9c1c84 dox/proto/clock.pb.cc
+0074dea8e188f8d571f358f80d90d212 dox/proto/component_conf.pb.cc
+f3605511bc168620aface0311fdbf78c dox/proto/dag_conf.pb.cc
+bccb6d43b5472b7c9db9bd3f7570a17d dox/proto/dox_conf.pb.cc
+5257759b0d3ed3bd2e53531fcffb144c dox/proto/monopoly_conf.pb.cc
+13fc5ab4ae00b11e09a3a88b3f26cae7 dox/proto/parameter.pb.cc
+b247802f411b7af602b025b5806e70ea dox/proto/perf_conf.pb.cc
+59bed8bbee223f34638be05362acdf92 dox/proto/proto_desc.pb.cc
+9d9f7deae482322195a7b0c7c2a5e0d9 dox/proto/qos_profile.pb.cc
+34159a0782a3dd19056c0b79d94233bd dox/proto/record.pb.cc
+44ff64be6482455319ffcfccbf0723bd dox/proto/role_attributes.pb.cc
+2c8810240c337c374fb342244ad0bcaf dox/proto/run_mode_conf.pb.cc
+88f2a50f5b6c9cc82997c816b6a69e8a dox/proto/scheduler_conf.pb.cc
+c29d97e75295135c07e15b348d2fd95f dox/proto/topology_change.pb.cc
+65cd701a718f4985b9aed0416d2dcb1a dox/proto/transport_conf.pb.cc
+2454dbbab03af7f551439fb62e567087 dox/proto/unit_test.pb.cc
